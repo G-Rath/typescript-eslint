@@ -4419,9 +4419,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nx/devkit@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/devkit@npm:22.1.1"
+"@nx/devkit@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/devkit@npm:22.2.3"
   dependencies:
     "@zkochan/js-yaml": 0.0.7
     ejs: ^3.1.7
@@ -4432,13 +4432,13 @@ __metadata:
     yargs-parser: 21.1.1
   peerDependencies:
     nx: ">= 21 <= 23 || ^22.0.0-0"
-  checksum: f1a52bdf0dccefc7b96bcadbaf6b342e47557effc96c587418108ae82ff0cb32e47780b5f8c59d9aadcedf89fb5a53ed5715d711011df5542d346a251ffa647c
+  checksum: 7e3322990f90f806ce3dec8fe793f18cf38cb8acbf800a8ff248977dde8a32a3651e41ca35c44b37af43dd5ef70059105a5d6b6a1cd75e19b0b803b365a7d876
   languageName: node
   linkType: hard
 
-"@nx/js@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/js@npm:22.1.1"
+"@nx/js@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/js@npm:22.2.3"
   dependencies:
     "@babel/core": ^7.23.2
     "@babel/plugin-proposal-decorators": ^7.22.7
@@ -4447,8 +4447,8 @@ __metadata:
     "@babel/preset-env": ^7.23.2
     "@babel/preset-typescript": ^7.22.5
     "@babel/runtime": ^7.22.6
-    "@nx/devkit": 22.1.1
-    "@nx/workspace": 22.1.1
+    "@nx/devkit": 22.2.3
+    "@nx/workspace": 22.2.3
     "@zkochan/js-yaml": 0.0.7
     babel-plugin-const-enum: ^1.0.1
     babel-plugin-macros: ^3.1.0
@@ -4471,86 +4471,86 @@ __metadata:
   peerDependenciesMeta:
     verdaccio:
       optional: true
-  checksum: a60dca6157c3b097a542baf85be79da8821fc3cb28b594735845daecfade4674d2713bd14627be6ba0c6805e36ee1c0eb0a58f846c440d66230f591cbbf87318
+  checksum: 911b7cc435f144250588c51d43f89d0794e1687afa31a2c59e512a006a1eddd7954e34a44c585e2fbb9ce070be4c7257d8f4ac3713c68fc9adf4ed3886150ec1
   languageName: node
   linkType: hard
 
-"@nx/nx-darwin-arm64@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-darwin-arm64@npm:22.1.1"
+"@nx/nx-darwin-arm64@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-darwin-arm64@npm:22.2.3"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@nx/nx-darwin-x64@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-darwin-x64@npm:22.1.1"
+"@nx/nx-darwin-x64@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-darwin-x64@npm:22.2.3"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@nx/nx-freebsd-x64@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-freebsd-x64@npm:22.1.1"
+"@nx/nx-freebsd-x64@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-freebsd-x64@npm:22.2.3"
   conditions: os=freebsd & cpu=x64
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-arm-gnueabihf@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-linux-arm-gnueabihf@npm:22.1.1"
+"@nx/nx-linux-arm-gnueabihf@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-linux-arm-gnueabihf@npm:22.2.3"
   conditions: os=linux & cpu=arm
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-arm64-gnu@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-linux-arm64-gnu@npm:22.1.1"
+"@nx/nx-linux-arm64-gnu@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-linux-arm64-gnu@npm:22.2.3"
   conditions: os=linux & cpu=arm64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-arm64-musl@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-linux-arm64-musl@npm:22.1.1"
+"@nx/nx-linux-arm64-musl@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-linux-arm64-musl@npm:22.2.3"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-x64-gnu@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-linux-x64-gnu@npm:22.1.1"
+"@nx/nx-linux-x64-gnu@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-linux-x64-gnu@npm:22.2.3"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-x64-musl@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-linux-x64-musl@npm:22.1.1"
+"@nx/nx-linux-x64-musl@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-linux-x64-musl@npm:22.2.3"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
 
-"@nx/nx-win32-arm64-msvc@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-win32-arm64-msvc@npm:22.1.1"
+"@nx/nx-win32-arm64-msvc@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-win32-arm64-msvc@npm:22.2.3"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@nx/nx-win32-x64-msvc@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/nx-win32-x64-msvc@npm:22.1.1"
+"@nx/nx-win32-x64-msvc@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/nx-win32-x64-msvc@npm:22.2.3"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
 
-"@nx/vitest@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/vitest@npm:22.1.1"
+"@nx/vitest@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/vitest@npm:22.2.3"
   dependencies:
-    "@nx/devkit": 22.1.1
-    "@nx/js": 22.1.1
+    "@nx/devkit": 22.2.3
+    "@nx/js": 22.2.3
     "@phenomnomnominal/tsquery": ~5.0.1
     semver: ^7.6.3
     tslib: ^2.3.0
@@ -4562,24 +4562,24 @@ __metadata:
       optional: true
     vitest:
       optional: true
-  checksum: e4372a5ffa35efaf9f0543b6e7bbebe79904a5f4c7353231f4829c4b3a3192bea415110ef358edd0fb6721d9c71e4da5c04858505455da4a50ae143d6e331c24
+  checksum: 907d82e0e8cd1f7c239409fb29496817fa03735134b8c455b372127736508ef109da782e19ad5edafe54f3154384914f1291768d45b6740a6dbcd097fca2c0a8
   languageName: node
   linkType: hard
 
-"@nx/workspace@npm:22.1.1":
-  version: 22.1.1
-  resolution: "@nx/workspace@npm:22.1.1"
+"@nx/workspace@npm:22.2.3":
+  version: 22.2.3
+  resolution: "@nx/workspace@npm:22.2.3"
   dependencies:
-    "@nx/devkit": 22.1.1
+    "@nx/devkit": 22.2.3
     "@zkochan/js-yaml": 0.0.7
     chalk: ^4.1.0
     enquirer: ~2.3.6
-    nx: 22.1.1
+    nx: 22.2.3
     picomatch: 4.0.2
     semver: ^7.6.3
     tslib: ^2.3.0
     yargs-parser: 21.1.1
-  checksum: dd7174ba59ac2caf06bb15fd97159c0f14e5dd834623a933f601fcbd5d99a77dd540aa5c5316cc76731af6f2350a0f311cb1aee3b52323e5496ed64bd8870318
+  checksum: 935c5ffdea5c135e32eac3704d6de9b29d5d00089c95eb3297fbe433d2cc238cc0350a66d3f82aa83df68929c34cb5b4d4dfeff601a506c94e8e42773e542013
   languageName: node
   linkType: hard
 
@@ -6356,10 +6356,10 @@ __metadata:
     "@eslint/compat": ^1.2.4
     "@eslint/eslintrc": ^3.2.0
     "@eslint/js": ^9.26.0
-    "@nx/devkit": 22.1.1
-    "@nx/js": 22.1.1
-    "@nx/vitest": 22.1.1
-    "@nx/workspace": 22.1.1
+    "@nx/devkit": 22.2.3
+    "@nx/js": 22.2.3
+    "@nx/vitest": 22.2.3
+    "@nx/workspace": 22.2.3
     "@swc/core": ^1.4.12
     "@types/debug": ^4.1.12
     "@types/eslint-plugin-jsx-a11y": ^6.10.0
@@ -6395,7 +6395,7 @@ __metadata:
     knip: 5.75.1
     lint-staged: ^15.2.2
     markdownlint-cli: ^0.46.0
-    nx: 22.1.1
+    nx: 22.2.3
     prettier: 3.7.2
     rimraf: ^5.0.5
     semver: 7.7.0
@@ -15490,21 +15490,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nx@npm:22.1.1":
-  version: 22.1.1
-  resolution: "nx@npm:22.1.1"
+"nx@npm:22.2.3":
+  version: 22.2.3
+  resolution: "nx@npm:22.2.3"
   dependencies:
     "@napi-rs/wasm-runtime": 0.2.4
-    "@nx/nx-darwin-arm64": 22.1.1
-    "@nx/nx-darwin-x64": 22.1.1
-    "@nx/nx-freebsd-x64": 22.1.1
-    "@nx/nx-linux-arm-gnueabihf": 22.1.1
-    "@nx/nx-linux-arm64-gnu": 22.1.1
-    "@nx/nx-linux-arm64-musl": 22.1.1
-    "@nx/nx-linux-x64-gnu": 22.1.1
-    "@nx/nx-linux-x64-musl": 22.1.1
-    "@nx/nx-win32-arm64-msvc": 22.1.1
-    "@nx/nx-win32-x64-msvc": 22.1.1
+    "@nx/nx-darwin-arm64": 22.2.3
+    "@nx/nx-darwin-x64": 22.2.3
+    "@nx/nx-freebsd-x64": 22.2.3
+    "@nx/nx-linux-arm-gnueabihf": 22.2.3
+    "@nx/nx-linux-arm64-gnu": 22.2.3
+    "@nx/nx-linux-arm64-musl": 22.2.3
+    "@nx/nx-linux-x64-gnu": 22.2.3
+    "@nx/nx-linux-x64-musl": 22.2.3
+    "@nx/nx-win32-arm64-msvc": 22.2.3
+    "@nx/nx-win32-x64-msvc": 22.2.3
     "@yarnpkg/lockfile": ^1.1.0
     "@yarnpkg/parsers": 3.0.2
     "@zkochan/js-yaml": 0.0.7
@@ -15571,7 +15571,7 @@ __metadata:
   bin:
     nx: bin/nx.js
     nx-cloud: bin/nx-cloud.js
-  checksum: 4fac3e80797e883ce752031bf2cb6e98026f2f6801846648e267ae0aae96d0d23c1de5c180a838d3a6366b8fdedd7b959d6729870267e76686e22c20b1b37901
+  checksum: 04b6a68237385d38f4995e071ed0092396f330a38128c07f650382c8d3f1d426ccaa2b8e07fc9c829dd6cac9fd128f901ee6b9d34d4a64117a003d37b7b2ab73
   languageName: node
   linkType: hard
 
